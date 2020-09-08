@@ -1,4 +1,4 @@
-The calculator just works, such that you need to enter the value and then press the button, where you want to use that value with the previous result.
+You need to enter the value and then press the button, where you want to use that value with the previous result.
 
 This how the calculator works.
 
